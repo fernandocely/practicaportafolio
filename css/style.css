@@ -1,0 +1,21 @@
+table{
+	text-align: center
+	border-collapse: collapse;
+  width: 100%;
+}
+td,th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+#encabezado {
+  width:1360px;
+  height:150px;
+  border: 2px solid white;
+}
+
+#fotoperfil {
+  width:120px;
+  height:130px;
+  border: 2px solid black;
+}
